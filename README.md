@@ -28,7 +28,11 @@ npm i yalc -g
 Using Yarn:
 
 ```
+# Classic
 yarn global add yalc
+
+# V2+
+yarn dlx yalc <command>
 ```
 
 Some documented features might not have been published yet, see the [change log](./CHANGELOG.md).
